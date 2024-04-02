@@ -9,8 +9,8 @@ export const site = {
   codePostal : "56620",
   ville : "PONT-SCORFF",
   email : "contact@peinture-couverture.fr",
-  logo : {url :"images/logo-barre-du-haut.png", alt :"logo DYLAN Peinture et Couverture"},
-  Logo : {url :"images/logo-banniere.png", alt :"logo DYLAN Peinture et Couverture"}
+  logo : {url :"images/logo-barre-du-haut.jpg", alt :"logo DYLAN Peinture et Couverture"},
+  Logo : {url :"images/logo-banniere.jpg", alt :"logo DYLAN Peinture et Couverture"}
 };
 
 export const menuItems = [
