@@ -29,9 +29,9 @@ export async function POST(request) {
   
    // CrÃ©ation du message
 	const sendGridMail = {
-		to: "contact@couvreurvannes.fr",
-		from: "contact@couvreurvannes.fr",
-		templateId: "d-4660587aed21443ea9cfa422302dd368",
+		to: "contact@peinture-couverture.fr",
+		from: "contact@peinture-couverture.fr",
+		templateId: "d-4fb558c69e6d41939ba58f1dfb4c52a7",
 		dynamic_template_data: {
 			prenom: prenom,
 			nom: nom,
